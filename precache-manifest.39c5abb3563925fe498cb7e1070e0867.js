@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba8d697d186a8881767c452e9de2ecb5",
+    "revision": "6ac622b991da401532c129dfcfd693ae",
     "url": "/NicaDago-module-ii/index.html"
   },
   {
-    "revision": "a50ab968099d77a6330d",
-    "url": "/NicaDago-module-ii/static/css/main.5efbd7fc.chunk.css"
+    "revision": "c52365366fc0d032500e",
+    "url": "/NicaDago-module-ii/static/css/main.46416079.chunk.css"
   },
   {
-    "revision": "ec956ae859bb489ad676",
-    "url": "/NicaDago-module-ii/static/js/2.9ae25b8e.chunk.js"
+    "revision": "137b2588daf8ec38a825",
+    "url": "/NicaDago-module-ii/static/js/2.0e06e2ba.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/NicaDago-module-ii/static/js/2.9ae25b8e.chunk.js.LICENSE.txt"
+    "url": "/NicaDago-module-ii/static/js/2.0e06e2ba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a50ab968099d77a6330d",
-    "url": "/NicaDago-module-ii/static/js/main.6c91c85e.chunk.js"
+    "revision": "c52365366fc0d032500e",
+    "url": "/NicaDago-module-ii/static/js/main.d0c7e813.chunk.js"
   },
   {
     "revision": "4f0c75d3a9ed8bd737d4",
