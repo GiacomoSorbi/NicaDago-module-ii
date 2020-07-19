@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d863013348669f6938fc81f772bd2cc1",
+    "revision": "fd00705c49b10334ad419033d64c3389",
     "url": "/NicaDago-module-ii/index.html"
   },
   {
-    "revision": "12531f1144807963089c",
+    "revision": "9e94d177778db9d1de5e",
     "url": "/NicaDago-module-ii/static/css/main.9b12b1e5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NicaDago-module-ii/static/js/2.0e06e2ba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "12531f1144807963089c",
-    "url": "/NicaDago-module-ii/static/js/main.24b4f410.chunk.js"
+    "revision": "9e94d177778db9d1de5e",
+    "url": "/NicaDago-module-ii/static/js/main.44c7b021.chunk.js"
   },
   {
     "revision": "4f0c75d3a9ed8bd737d4",
