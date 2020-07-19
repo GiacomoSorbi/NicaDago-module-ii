@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/NicaDago-module-ii/static/css/main.46416079.chunk.css",
-    "main.js": "/NicaDago-module-ii/static/js/main.d0c7e813.chunk.js",
-    "main.js.map": "/NicaDago-module-ii/static/js/main.d0c7e813.chunk.js.map",
+    "main.css": "/NicaDago-module-ii/static/css/main.9b12b1e5.chunk.css",
+    "main.js": "/NicaDago-module-ii/static/js/main.24b4f410.chunk.js",
+    "main.js.map": "/NicaDago-module-ii/static/js/main.24b4f410.chunk.js.map",
     "runtime-main.js": "/NicaDago-module-ii/static/js/runtime-main.221c7608.js",
     "runtime-main.js.map": "/NicaDago-module-ii/static/js/runtime-main.221c7608.js.map",
     "static/js/2.0e06e2ba.chunk.js": "/NicaDago-module-ii/static/js/2.0e06e2ba.chunk.js",
     "static/js/2.0e06e2ba.chunk.js.map": "/NicaDago-module-ii/static/js/2.0e06e2ba.chunk.js.map",
     "index.html": "/NicaDago-module-ii/index.html",
-    "precache-manifest.39c5abb3563925fe498cb7e1070e0867.js": "/NicaDago-module-ii/precache-manifest.39c5abb3563925fe498cb7e1070e0867.js",
+    "precache-manifest.1895e052f1693634a015bc43187a3437.js": "/NicaDago-module-ii/precache-manifest.1895e052f1693634a015bc43187a3437.js",
     "service-worker.js": "/NicaDago-module-ii/service-worker.js",
-    "static/css/main.46416079.chunk.css.map": "/NicaDago-module-ii/static/css/main.46416079.chunk.css.map",
+    "static/css/main.9b12b1e5.chunk.css.map": "/NicaDago-module-ii/static/css/main.9b12b1e5.chunk.css.map",
     "static/js/2.0e06e2ba.chunk.js.LICENSE.txt": "/NicaDago-module-ii/static/js/2.0e06e2ba.chunk.js.LICENSE.txt",
     "static/media/about.jpg": "/NicaDago-module-ii/static/media/about.3151ab15.jpg",
     "static/media/blog1.jpg": "/NicaDago-module-ii/static/media/blog1.da46702e.jpg",
@@ -36,7 +36,7 @@
   "entrypoints": [
     "static/js/runtime-main.221c7608.js",
     "static/js/2.0e06e2ba.chunk.js",
-    "static/css/main.46416079.chunk.css",
-    "static/js/main.d0c7e813.chunk.js"
+    "static/css/main.9b12b1e5.chunk.css",
+    "static/js/main.24b4f410.chunk.js"
   ]
 }
