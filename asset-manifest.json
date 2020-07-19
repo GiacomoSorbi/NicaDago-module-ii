@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/NicaDago-module-ii/static/css/main.9b12b1e5.chunk.css",
-    "main.js": "/NicaDago-module-ii/static/js/main.44c7b021.chunk.js",
-    "main.js.map": "/NicaDago-module-ii/static/js/main.44c7b021.chunk.js.map",
+    "main.css": "/NicaDago-module-ii/static/css/main.b68f0f19.chunk.css",
+    "main.js": "/NicaDago-module-ii/static/js/main.e728e2ee.chunk.js",
+    "main.js.map": "/NicaDago-module-ii/static/js/main.e728e2ee.chunk.js.map",
     "runtime-main.js": "/NicaDago-module-ii/static/js/runtime-main.221c7608.js",
     "runtime-main.js.map": "/NicaDago-module-ii/static/js/runtime-main.221c7608.js.map",
-    "static/js/2.0e06e2ba.chunk.js": "/NicaDago-module-ii/static/js/2.0e06e2ba.chunk.js",
-    "static/js/2.0e06e2ba.chunk.js.map": "/NicaDago-module-ii/static/js/2.0e06e2ba.chunk.js.map",
+    "static/js/2.cf02ed1b.chunk.js": "/NicaDago-module-ii/static/js/2.cf02ed1b.chunk.js",
+    "static/js/2.cf02ed1b.chunk.js.map": "/NicaDago-module-ii/static/js/2.cf02ed1b.chunk.js.map",
     "index.html": "/NicaDago-module-ii/index.html",
-    "precache-manifest.4973bedaba6353315fd943f7d0f5b8c0.js": "/NicaDago-module-ii/precache-manifest.4973bedaba6353315fd943f7d0f5b8c0.js",
+    "precache-manifest.29305b76149f4eae7e712bbdde1c5e60.js": "/NicaDago-module-ii/precache-manifest.29305b76149f4eae7e712bbdde1c5e60.js",
     "service-worker.js": "/NicaDago-module-ii/service-worker.js",
-    "static/css/main.9b12b1e5.chunk.css.map": "/NicaDago-module-ii/static/css/main.9b12b1e5.chunk.css.map",
-    "static/js/2.0e06e2ba.chunk.js.LICENSE.txt": "/NicaDago-module-ii/static/js/2.0e06e2ba.chunk.js.LICENSE.txt",
+    "static/css/main.b68f0f19.chunk.css.map": "/NicaDago-module-ii/static/css/main.b68f0f19.chunk.css.map",
+    "static/js/2.cf02ed1b.chunk.js.LICENSE.txt": "/NicaDago-module-ii/static/js/2.cf02ed1b.chunk.js.LICENSE.txt",
     "static/media/about.jpg": "/NicaDago-module-ii/static/media/about.3151ab15.jpg",
     "static/media/blog1.jpg": "/NicaDago-module-ii/static/media/blog1.da46702e.jpg",
     "static/media/blog2.jpg": "/NicaDago-module-ii/static/media/blog2.17fac3e2.jpg",
@@ -35,8 +35,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.221c7608.js",
-    "static/js/2.0e06e2ba.chunk.js",
-    "static/css/main.9b12b1e5.chunk.css",
-    "static/js/main.44c7b021.chunk.js"
+    "static/js/2.cf02ed1b.chunk.js",
+    "static/css/main.b68f0f19.chunk.css",
+    "static/js/main.e728e2ee.chunk.js"
   ]
 }
