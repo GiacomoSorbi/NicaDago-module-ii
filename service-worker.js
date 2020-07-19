@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/NicaDago-module-ii/precache-manifest.1895e052f1693634a015bc43187a3437.js"
+  "/NicaDago-module-ii/precache-manifest.96bf956bb377741cec8b6a0491fcc0bb.js"
 );
 
 self.addEventListener('message', (event) => {
